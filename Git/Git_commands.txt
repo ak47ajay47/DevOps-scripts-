@@ -3,7 +3,7 @@
 
 ## Setup your name and email using below command
 git config --global user.email "yourname@mail.com"
-git config --global user.name "your_name"
+git config --global user.name "Any_name"
 
 ## Initialize an empty git repo in local
 git init
